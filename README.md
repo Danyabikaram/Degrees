@@ -90,7 +90,7 @@ Degrees of separation: 2
 
 Shows the chain of actors and the movies connecting them.
 
-#Usage
+# Usage
 
 1.Clone the repository:
 git clone https://github.com/yourusername/degrees.git
