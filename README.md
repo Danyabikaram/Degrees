@@ -61,7 +61,7 @@ Repeat until the target actor is found.
 
 Track the path to reconstruct the movies and intermediate actors
 
-3.Implementation details:
+3. Implementation details:
 
 degrees.py – Main program
 
