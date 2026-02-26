@@ -63,16 +63,17 @@ Track the path to reconstruct the movies and intermediate actors
 
 3. Implementation details:
 
-degrees.py – Main program
+- degrees.py – Main program
 
+- util.py – Contains Node, QueueFrontier, and BFS utility classes
 
-Functions:
+- Functions:
 
-shortest_path(source, target) – Computes the shortest connection
+  shortest_path(source, target) – Computes the shortest connection
 
-neighbors_for_person(person_id) – Returns actors who starred with a given actor
+  neighbors_for_person(person_id) – Returns actors who starred with a given actor
 
-person_id_for_name(name) – Resolves actor names to IDs
+  person_id_for_name(name) – Resolves actor names to IDs
 
 # Results
 
